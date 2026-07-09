@@ -19,9 +19,6 @@ We develop and maintain open-source software for Minecraft modding, client devel
 ## Developers
 
 - [toidicakhia](https://github.com/toidicakhia)
-- [taodicakhia](https://github.com/taodicakhia)
 - [longathelstan](https://github.com/longathelstan)
 - [KhoiBruh](https://github.com/KhoiBruh)
 - [fmcpe](https://github.com/fmcpe)
-- [tolamsalad](https://github.com/tolamsalad)
-- [vinty1337](https://github.com/vinty1337)
