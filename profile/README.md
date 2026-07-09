@@ -16,7 +16,7 @@ We develop and maintain open-source software for Minecraft modding, client devel
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## Key members
+## Developers
 
 - [toidicakhia](https://github.com/toidicakhia)
 - [taodicakhia](https://github.com/taodicakhia)
